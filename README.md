@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning front-end
 - 💞️ I’m looking to collaborate on and learn
 - 📫 How to reach me through git itself
-- 😄 Pronouns: ...
+- 😄 Pronouns: He
 - ⚡ Fun fact: I always looked at website codes and felt lost like a needle in a haystack.
 
 <!---
